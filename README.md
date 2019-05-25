@@ -1,4 +1,4 @@
-# TrendMicro_Front-end_Homework
+# Trend Micro Front-end Homework
 
 Introduction
 -------------
