@@ -1,0 +1,40 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "open": "webpack-dev-server",
+    "webpack": "webpack -p",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.0",
+    "final-form": "^4.13.0",
+    "final-form-focus": "^1.1.2",
+    "react": "^16.5.2",
+    "react-css-modules": "^4.7.11",
+    "react-dom": "^16.5.2",
+    "react-final-form": "^5.1.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^5.0.0",
+    "redux": "^4.0.0",
+    "redux-saga": "^1.0.2",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.2.0"
+  }
+}
