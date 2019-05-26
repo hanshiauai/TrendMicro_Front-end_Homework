@@ -24,9 +24,9 @@ How to Build and Run The React Application
 
 References
 -------------
-[1] React Router Example https://reacttraining.com/react‑router/web/example/auth‑workflow
+[1] React Router Example https://reacttraining.com/react-router/web/example/auth-workflow
 
-[2] Redux-Saga Tutorial https://denny.qollie.com/2016/05/14/redux‑saga/
+[2] Redux-Saga Tutorial https://denny.qollie.com/2016/05/14/redux-saga/
 
 [3] React Final Form https://github.com/final-form/react-final-form
 
