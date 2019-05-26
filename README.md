@@ -2,13 +2,13 @@
 
 Introduction
 -------------
-React and GitHub Practice
+React and GitHub exercise
 
 Description
 -------------
 Implements a React app that provides simple authentication.
 Users can view the public page, click  Sign In  button to enter
-username/password (guest/guest), and sign out to leave from protected page.
+username/password **(guest/guest)**, and sign out to leave from protected page.
 
 Website demo
 -------------
