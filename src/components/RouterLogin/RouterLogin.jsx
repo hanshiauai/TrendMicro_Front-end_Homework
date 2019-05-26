@@ -76,6 +76,7 @@ class RouterLoginComponent extends React.Component{
                                 type="text"
                                 component="input"
                                 placeholder="Enter username"
+                                defaultValue="guest"
                                 validate={ value => value ? undefined : '  This is a Required Field.' }
                                 subscription={{
                                     value: true,
@@ -102,6 +103,7 @@ class RouterLoginComponent extends React.Component{
                                 type="password"
                                 component="input"
                                 placeholder="Enter password"
+                                defaultValue="guest"
                                 validate={ value => value ? undefined : '  This is a Required Field.' }
                                 subscription={{
                                     value: true,
